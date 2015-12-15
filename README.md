@@ -10,8 +10,8 @@
 
 ## エクストリームリーディングについて
 
-http://www.slideshare.net/fullvirtue/1-postudy
-http://makopi23.blog.fc2.com/blog-entry-36.html
+- http://www.slideshare.net/fullvirtue/1-postudy
+- http://makopi23.blog.fc2.com/blog-entry-36.html
 
 ## 流れ
 
