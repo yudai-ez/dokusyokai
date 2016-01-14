@@ -4,7 +4,7 @@
 
 ## 現在の課題図書
 
-[SCRUM BOOT CAMP THE BOOK](scrum_boot_camp_the_book)
+[SCRUM BOOT CAMP THE BOOK](books/scrum_boot_camp_the_book)
 
 ## 読書会の形式
 
