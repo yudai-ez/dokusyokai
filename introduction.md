@@ -8,11 +8,11 @@
 
 ## 今読んでる本はなに？
 
-[READMEの現在の課題図書](README#現在の課題図書)から確認できます
+[READMEの現在の課題図書](https://github.com/yudai-ez/dokusyokai#現在の課題図書)から確認できます
 
 ## 今読んでる本はどこで買えるの？
 
-[現在の課題図書](README#現在の課題図書)のリンク内にamazonのリンクがあります
+[現在の課題図書](https://github.com/yudai-ez/dokusyokai#現在の課題図書)のリンク内にamazonのリンクがあります
 
 ## 次はいつどこで開催されるの？
 
@@ -20,7 +20,7 @@
 
 ## 読書会ってどんな感じで進行するの？
 
-[READMEの読書会の形式](README#読書会の形式)を一読してください
+[READMEの読書会の形式](https://github.com/yudai-ez/dokusyokai#読書会の形式)を一読してください
 
 ## 次回の開催までに準備しておくことは？
 
