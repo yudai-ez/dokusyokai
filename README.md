@@ -1,5 +1,7 @@
 # 読書会
 
+## [はじめて参加する方へ](introduction.md)
+
 ## 現在の課題図書
 
 [SCRUM BOOT CAMP THE BOOK](scrum_boot_camp_the_book)
